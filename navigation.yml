@@ -1,0 +1,22 @@
+# main links links
+main:
+  - title: "About Me"
+    url: "/#about-me"
+
+  - title: "Educations"
+    url: "/#-educations"
+
+  - title: "Publications"
+    url: "/#-publications"
+
+  - title: "Honors and Awards"
+    url: "/#-honors-and-awards"
+
+  - title: "Lecture Courses"
+    url: "/#-Lecture-Courses"
+
+  - title: "Research Programs"
+    url: "/#-Research-Programs"
+
+  - title: "Chinese"
+    url: "https://github.com/Jiecao-He/acad-homepage.github.io/blob/main/_pages/about_CN.md#%E8%87%AA%E6%88%91%E4%BB%8B%E7%BB%8D"
